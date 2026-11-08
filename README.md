@@ -1,9 +1,7 @@
 # app-dev
 My first repository
 # Rambo
-
 ## Movie Overview
-
 ### Genre: Action, Adventure, & Thriller
 
 *Rambo* tells the story of John Rambo, a former Green Beret soldier with excellent combat and survival skills. He faces dangerous enemies and difficult situations while using his military training to survive. Throughout the movie, he shows courage, strength, and determination.
@@ -22,5 +20,4 @@ My first repository
 John Rambo is a former Green Beret soldier and is known for his exceptional survival and combat skills.
 
 [Learn more about Rambo](https://www.imdb.com/find/?q=Rambo)
-
 ![Rambo Poster](rambo_poster.jpg)
